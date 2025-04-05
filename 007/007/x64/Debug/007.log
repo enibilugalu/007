@@ -1,0 +1,2 @@
+﻿file2.obj : error LNK2005: main уже определен в file1.obj
+C:\Users\lelya\source\repos\007\007\x64\Debug\007.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
